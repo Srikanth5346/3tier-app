@@ -81,4 +81,4 @@ https://github.com/Srikanth5346/3tier-app
 
 ## Author
 
-Vadithya Srikanth
+Vadithya Srikanth.
