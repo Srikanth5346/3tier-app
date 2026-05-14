@@ -3,15 +3,21 @@ pipeline {
 
     stages {
 
-        stage('Build') {
+        stage('Build Docker Images') {
             steps {
-                sh 'docker compose build'
+                bat 'docker compose build'
             }
         }
 
-        stage('Deploy') {
+        stage('Deploy Containers') {
             steps {
-                sh 'docker compose up -d'
+                bat 'docker compose up -d'
+            }
+        }
+
+        stage('Check Containers') {
+            steps {
+                bat 'docker ps'
             }
         }
     }
