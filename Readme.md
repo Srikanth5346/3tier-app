@@ -62,6 +62,7 @@ docker ps
 2. Build Docker images
 3. Deploy containers
 4. Verify running containers
+<img width="1917" height="892" alt="image" src="https://github.com/user-attachments/assets/816b0c4f-7a91-4e4a-8ae7-5d236cf9e8a4" />
 
 ---
 
