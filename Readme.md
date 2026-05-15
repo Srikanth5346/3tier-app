@@ -78,6 +78,7 @@ docker ps
 https://github.com/Srikanth5346/3tier-app
 ![alt text](image-2.png)
 
+![alt text](image-3.png)
 ---
 
 ## Author
